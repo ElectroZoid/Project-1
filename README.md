@@ -7,7 +7,7 @@ The class hides the balance (`_balance`) as a private field and provides control
 # UML Diagram
 <img width="436" height="451" alt="image" src="https://github.com/user-attachments/assets/7f7c7da1-a5c6-461d-9955-da5d076ec744" />
 
-# Comands
+# Commands
 <img width="898" height="124" alt="image" src="https://github.com/user-attachments/assets/8fc5c6cf-f714-4628-9a6d-de45decfe81d" />
 
 
